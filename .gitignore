@@ -2,3 +2,4 @@
 details.py
 .gitignore
 chromedriver.exe
+nv_test.py
