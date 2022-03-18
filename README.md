@@ -9,5 +9,5 @@
 version to avoid errors</p>
 
 
-<p>You can us the hs_code.py</p>
-<p>It's Way more efficient</p>
+<p>You can use the hs_code.py</p>
+<p>It's Way more efficient.</p>
