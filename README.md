@@ -5,5 +5,9 @@
 
 <p>Kindly check the details.py to see the format</p>
 
-<p>Kindly Check Out for The version of your chromedriver and downlaod the appropriate
+<p>Kindly Check Out for The version of your chromedriver and download the appropriate
 version to avoid errors</p>
+
+
+<p>You can us the hs_code.py</p>
+<p>It's Way more efficient</p>
